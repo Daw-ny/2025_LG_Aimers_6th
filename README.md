@@ -29,7 +29,7 @@
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/308c4a44-e751-4331-a700-8ca1bec480e4" width="200" height="300"/> </td>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/38d5c758-a769-4e79-b2c4-c74cdad037ff" width="200" height="300"/> </td>
     <td> <img alt="Github" src ="https://github.com/user-attachments/assets/cfad4e6b-435d-47c8-9165-43a3b653c554" width="200" height="300"/> </td>
-    <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/c4cb11ba-e02f-4776-97c8-9585ae4b9f1d" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/2b532069-1724-4bcb-8000-bea72dc10238" width="200" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/Daw-ny"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
